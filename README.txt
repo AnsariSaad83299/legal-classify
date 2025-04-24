@@ -1,1 +1,0 @@
-Cretaed this project to apply for summer internship. Used transformers to create an llm, flask to create REST endpoint and scala for sending requests
