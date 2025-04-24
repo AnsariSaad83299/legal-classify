@@ -1,4 +1,4 @@
-# 🧾 LegiSort — AI-Powered Legal Document Summarizer
+# 🧾 legal-classify — AI-Powered Legal Document Summarizer
 
 LegiSort is a hybrid CLI + API application that leverages a fine-tuned transformer model to generate concise summaries of legal documents. It uses:
 
