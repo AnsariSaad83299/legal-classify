@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv
+*.bin
+*.log
+model/legal_summarization/
+output.txt
+.idea/
+.vscode/
+scala-cli.lock.json
